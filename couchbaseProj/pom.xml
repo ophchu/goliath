@@ -32,7 +32,13 @@
     <dependency>
       <groupId>couchbase</groupId>
       <artifactId>couchbase-client</artifactId>
-      <version>1.0.3</version>
+      <version>1.1-dp3</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.2.2</version>
+      <scope>compile</scope>
     </dependency>
 
   </dependencies>
