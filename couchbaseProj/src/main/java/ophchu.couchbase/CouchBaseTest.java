@@ -30,6 +30,7 @@ public class CouchBaseTest {
       // Set the URIs and get a client
       List<URI> uris = new LinkedList<URI>();
 
+      //Check git
       Boolean do_delete = false;
 
       // Connect to localhost or to the appropriate URI
